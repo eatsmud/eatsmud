@@ -6,4 +6,4 @@
 i like to eat mud
 </p>
 <p align="center"> 
-<img src="https://github.com/user-attachments/assets/46faadcf-62aa-43fe-a77e-f0250d64e721">
+<img src="https://github.com/user-attachments/assets/c82e206d-d7ee-43dd-a64f-be5898fafcb5">
