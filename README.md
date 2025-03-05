@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/867bc166-9278-47d2-ba4d-84cbbec75464"> <img src="https://github.com/user-attachments/assets/867bc166-9278-47d2-ba4d-84cbbec75464">
   </p>
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=eatsmud&color=red">
+  <img src="https://komarev.com/ghpvc/?username=eatsmud&color=000000">
 </p>
 <p align="center"> 
 i like to eat mud
