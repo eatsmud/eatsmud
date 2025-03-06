@@ -8,6 +8,6 @@
 i like to eat mud
 
 <p align="center">  
-<img src="https://github.com/user-attachments/assets/20f024ba-ca00-4da9-80d4-04ff2d20a4d3">
+<img src="https://github.com/user-attachments/assets/b1917f26-19a4-432f-950e-ea9eac9472e4">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/867bc166-9278-47d2-ba4d-84cbbec75464"> <img src="https://github.com/user-attachments/assets/867bc166-9278-47d2-ba4d-84cbbec75464">
